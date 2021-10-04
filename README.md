@@ -1,2 +1,2 @@
 # alura-ds-series-temporais
-Repositório com os exercícios e códigos do curso Data Science: Introdução a análise de series temporais (https://cursos.alura.com.br/course/data-science-series-temporais), da Alura
+Repository with exercises and codes from ["Data Science: Introdução a análise de series temporais" course](https://cursos.alura.com.br/course/data-science-series-temporais), from Alura
